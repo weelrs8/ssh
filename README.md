@@ -1,7 +1,7 @@
 SSH PHP
 =======
 
-Conexão SSH utilizando autenticação com usuário e senha
+Utilizando autenticação de usuário e senha
 -------------------------------------------------------
 
     <?php
