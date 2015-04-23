@@ -1,0 +1,23 @@
+{
+  "name": "weelrs8/ssh",
+  "description": "SSH Connection",
+  "keywords": [
+    "ssh",
+    "php"
+  ],
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Wellington R.",
+      "homepage": "http://www.zephx.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"SSH\\": "src/SSH/"}
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
